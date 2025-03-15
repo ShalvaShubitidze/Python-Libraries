@@ -1,0 +1,71 @@
+==================================
+1. Water Dispenser
+Simulate a water dispenser that takes 2 seconds to fill a cup. There are 5 people waiting to use it. Each person waits until the dispenser is available.
+
+🔹 Concepts used: Resource, timeout, process.
+==================================
+
+
+==================================
+2. Library Borrowing System
+A library has 3 copies of a popular book. Students come to borrow and return books. If all copies are taken, the student waits until a copy is returned.
+
+🔹 Concepts used: Resource, timeout.
+==================================
+
+
+==================================
+3. Bakery Order System
+A bakery receives 3 customer orders. Each order takes 4 minutes to prepare. The bakery can only handle one order at a time.
+
+🔹 Concepts used: Resource, process, timeout.
+==================================
+
+
+==================================
+4. Airport Check-in
+An airport has 2 check-in counters. Passengers arrive randomly and queue up. Each check-in takes 6 minutes, and only one passenger can be served per counter at a time.
+
+🔹 Concepts used: Resource, timeout, process.
+==================================
+
+
+==================================
+5. Printer Queue
+Three users are waiting for a shared printer. Each print job takes between 3-6 minutes to complete. If the printer is busy, the user must wait.
+
+🔹 Concepts used: Resource, timeout, randomization.
+==================================
+
+
+==================================
+6. Playground Slide
+A playground has 1 slide, and 5 kids take turns using it. Each slide takes 2 seconds. Kids can only slide when it’s their turn.
+
+🔹 Concepts used: Resource, timeout, process.
+==================================
+
+
+==================================
+7. Toll Booth Simulation
+A highway toll booth serves cars that arrive randomly. Each car takes 5 seconds to pass. If the booth is occupied, cars must wait in line.
+
+🔹 Concepts used: Resource, timeout, process.
+==================================
+
+
+==================================
+8. Cash Register in a Store
+A store has one cash register. Each customer takes 4 minutes to check out. There are 5 customers in line. Customers must wait their turn.
+
+🔹 Concepts used: Resource, timeout, process.
+==================================
+
+
+==================================
+9. Cinema Ticket Counter
+A cinema has 1 ticket counter. Customers arrive every 2 minutes, and each transaction takes 3 minutes. If the counter is busy, customers must wait.
+
+🔹 Concepts used: Resource, timeout, process.
+==================================
+
