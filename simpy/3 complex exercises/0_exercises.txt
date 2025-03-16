@@ -1,0 +1,99 @@
+==================================================================================
+1. bank loan processing
+Customers apply for loans. If they have high priority, their request is processed faster. 
+Otherwise, they wait. Simulate loan approvals for different customers.
+
+🔹 Concepts Used: PriorityResource, Timeout, Process, Queue
+==================================================================================
+
+
+
+==================================================================================
+2. Hospital Emergency Room
+A hospital emergency room has 3 doctors and 2 nurses. Patients arrive at random intervals, 
+and each treatment requires both a doctor and a nurse. 
+Treatment times vary depending on the severity of the condition. 
+If no doctor or nurse is available, patients must wait.
+
+🔹 Concepts used: Multiple resources, priority queue, randomization, timeout.
+==================================================================================
+
+
+
+==================================================================================
+3. Warehouse Logistics System
+A warehouse has 2 forklifts and 4 storage zones. 
+Each item must be transported from a loading dock to a designated storage zone. Some items require special handling, 
+increasing transport time. Forklifts must be available to move items, and each trip takes between 3-8 minutes.
+
+🔹 Concepts used: Multiple resources, conditional logic, randomization, timeout.
+==================================================================================
+
+
+
+==================================================================================
+4. AI Training Cluster
+A company trains AI models using 5 powerful GPUs. Each job has a random processing time between 10-30 minutes. 
+Some jobs require multiple GPUs to process in parallel. If no GPUs are available, jobs queue up. New jobs arrive randomly.
+
+🔹 Concepts used: Multi-resource allocation, parallel processing, randomization, timeout.
+==================================================================================
+
+
+
+==================================================================================
+5. Space Launch Control
+A space agency has a single launchpad and 3 mission control teams. 
+Each rocket launch requires approval from all three teams before proceeding. 
+If a team is unavailable, the launch must be delayed. Weather conditions also introduce random delays.
+
+🔹 Concepts used: Synchronization, multi-resource coordination, randomization, timeout.
+==================================================================================
+
+
+
+==================================================================================
+6. Smart Traffic Light System
+A busy intersection has traffic lights controlling four directions. 
+Each light follows a predefined timing cycle, 
+but real-time traffic sensors adjust durations dynamically based on congestion. 
+Vehicles arrive randomly and must wait for their turn to proceed.
+
+🔹 Concepts used: Conditional logic, real-time updates, queue management, timeout.
+==================================================================================
+
+
+
+==================================================================================
+7. Autonomous Factory Production Line
+A factory produces electronic devices using a robotic assembly line. Each product 
+requires multiple stages (e.g., component assembly, testing, packaging). 
+Some stages take longer than others, creating bottlenecks. 
+If a stage is full, production is delayed.
+
+🔹 Concepts used: Multi-step process, bottleneck management, resource allocation, timeout.
+==================================================================================
+
+
+
+==================================================================================
+8. Stock Market Trading System
+A trading platform processes buy and sell orders for stocks. 
+Orders arrive randomly and are matched in a queue. Some orders have priority (large transactions), 
+and market conditions affect execution times. If no matching order exists, transactions are delayed.
+
+🔹 Concepts used: Priority queue, randomization, conditional execution, timeout.
+==================================================================================
+
+
+
+==================================================================================
+9. AI-Powered Restaurant Automation
+A futuristic restaurant has robotic chefs, 
+automated waiters, and a dynamic order queue. 
+Some dishes take longer to prepare than others. 
+If an order is complex, multiple chefs must collaborate. 
+Waiters serve orders in priority order, and new customers arrive randomly.
+
+🔹 Concepts used: Multi-resource coordination, queue priority, randomization, timeout.
+==================================================================================
